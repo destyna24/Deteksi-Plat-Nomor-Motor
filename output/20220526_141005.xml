@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20220526_141005.jpg</filename>
+	<path>/my-project-name/20220526_141005.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1968</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plat_nomor</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1537</ymin>
+			<xmax>1968</xmax>
+			<ymax>2577</ymax>
+		</bndbox>
+	</object>
+</annotation>
